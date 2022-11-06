@@ -1,8 +1,8 @@
 <h1>Project description</h1>
 The data is stored in three files:
-<ul><li>gold_recovery_train.csv — training dataset download</li>
-<li>gold_recovery_test.csv — test dataset download</li>
-<li>gold_recovery_full.csv — source dataset download</li>
+<ul><li>gold_recovery_train.csv — training dataset</li>
+<li>gold_recovery_test.csv — test dataset</li>
+<li>gold_recovery_full.csv — source dataset</ul></li>
 
 Data is indexed with the date and time of acquisition (date feature). Parameters that are next to each other in terms of time are often similar.
   
@@ -13,7 +13,7 @@ The source dataset contains the training and test sets with all the features.
 You have the raw data that was only downloaded from the warehouse. Before building the model, check the correctness of the data. For that, use our instructions.
   
 <h2>Project instructions</h2>
-1. Prepare the data
+1. Prepare the data<br><br>
 1.1. Open the files and look into the data
 1.2. Check that recovery is calculated correctly. Using the training set, calculate recovery for the rougher.output.recovery feature. Find the MAE between your calculations and the feature values. Provide findings
 1.3. Analyze the features not available in the test set. What are these parameters? What is their type?

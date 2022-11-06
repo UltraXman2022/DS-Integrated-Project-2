@@ -1,5 +1,5 @@
-<h1>Project description</h1><br>
-The data is stored in three files:
+<h1>Project description</h1>
+The data is stored in three files:<br>
 <ul><li>gold_recovery_train.csv — training dataset</li>
 <li>gold_recovery_test.csv — test dataset</li>
 <li>gold_recovery_full.csv — source dataset</ul></li>

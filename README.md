@@ -26,4 +26,4 @@ Path to files:
 3.2. Train different models. Evaluate them using cross-validation. Pick the best model and test it using the test sample. Provide findings.
 Use these formulas for evaluation metrics:
 image
-image
+<img src="https://github.com/UltraXman2022/DS-Integrated-Project-2/blob/main/smape_1576239058_1589899769.jpg">

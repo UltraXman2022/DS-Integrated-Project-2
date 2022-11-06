@@ -1,8 +1,8 @@
 <h1>Project description</h1>
 The data is stored in three files:<br><br>
-<ul><li>gold_recovery_train.csv — training dataset</li>
-<li>gold_recovery_test.csv — test dataset</li>
-<li>gold_recovery_full.csv — source dataset</ul></li><br><br>
+<ul><li>gold_recovery_train.csv — training dataset</li><br>
+<li>gold_recovery_test.csv — test dataset</li><br>
+<li>gold_recovery_full.csv — source dataset</ul></li><br>
 
 Data is indexed with the date and time of acquisition (date feature). Parameters that are next to each other in terms of time are often similar.
   
